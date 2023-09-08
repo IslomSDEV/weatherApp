@@ -12,7 +12,7 @@ body {
 .app_wrap {
     display: grid;
     grid-template-columns: 50% 50%;
-    height: 100v h;
+    height: 100vh;
 }
 header {
     display: flex;
@@ -87,4 +87,9 @@ main {
         margin-top: 0;
         margin-left: 0;
     }
+}
+
+.sunnyCome {
+    display: block;
+    tab-size: 0cap;
 }
